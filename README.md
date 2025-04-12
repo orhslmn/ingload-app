@@ -25,10 +25,13 @@ While reading English books, I often come across unfamiliar words. This tool hel
 
 ## 🛠️ Technologies Used
 
-- HTML, CSS, JavaScript
-- LocalStorage / Web SQL (or your preferred DB logic)
-- Bootstrap (optional UI styling)
-- Future-ready for backend integration (e.g., Spring Boot, Node.js)
+-Frontend: HTML, CSS, JavaScript
+
+-Backend: Java (Spring Boot)
+
+-Database: PostgreSQL
+
+-API: RESTful API for communication between the frontend and backend
 
 ## 📈 Personal Value
 
