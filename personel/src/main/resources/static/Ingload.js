@@ -49,7 +49,7 @@ function kelimeYukle() {
                 }
 
             } else {
-                kelimeAlani.textContent = "Kelime bulunamadı.";
+                kelimeAlani.textContent = "No words found.";
             }
         })
         .catch(error => {

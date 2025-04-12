@@ -2,6 +2,12 @@
 
 This is a simple web-based application I built to help myself memorize English words while reading books. The idea is to note down unknown words, store them in a local database, and get reminded of them periodically to improve retention and long-term memory.
 
+![App Screenshot](screenshot.png)
+
+## 🎬 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/d43lPdUxMIA)
+
 ## 🎯 Purpose
 
 While reading English books, I often come across unfamiliar words. This tool helps me:
