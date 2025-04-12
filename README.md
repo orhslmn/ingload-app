@@ -15,7 +15,7 @@ While reading English books, I often come across unfamiliar words. This tool hel
 - Review them regularly
 - Track my vocabulary progress over time
 
-## 🚀 Features
+## 🚀 Features 
 
 - Add and store new English words
 - Set custom reminders for word revision
