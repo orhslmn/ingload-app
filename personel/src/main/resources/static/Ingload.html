@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>English Vocabulary App</title>
+
+    <link rel="stylesheet" href="ingload.css">
+    <link href="favicon.ico">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="ingload.js" defer></script>
+</head>
+<body>
+<audio id="zilSesi" src="ddng.mp3" preload="auto"></audio>
+
+<div class="container">
+    <h2>📘 Add a New Word</h2>
+    <form id="kelimeForm">
+        <input type="text" name="kelime" placeholder="Type a new word" required />
+        <button type="submit">Add</button>
+    </form>
+
+    <h3>🗣️ Word of the Day</h3>
+    <div id="kelimeAlani" class="kelime-kart">Loading...</div>
+</div>
+</body>
+</html>
